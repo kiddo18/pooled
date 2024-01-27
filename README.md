@@ -1,5 +1,7 @@
 # pooled
 
+![alt text](https://www.dropbox.com/scl/fi/bqhar48jlb4xwi7vviibx/stable-diffusion-xl-3-copy.png?rlkey=p48pic0ncdwrlw2cyjn62n7le&dl=0)
+
 ##### By: Paul Doan ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=O4q49qQAAAAJ))
 
 
