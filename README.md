@@ -5,7 +5,7 @@
 
 - A straight-forward Python workflow for wet-lab biologists to analyze pooled, functional genetic perturbation screens (e.g., CRISPR, RNAi, ORF) coupled with either viability or FACS-based readouts.
 
-- The pre-processing and QC steps of this workflow and the data demo below are duplicated from the Broad GPP's `poola` Python package. Please check it out [here](https://pypi.org/project/poola/). 
+- The pre-processing and QC steps of this workflow below are duplicated from the Broad GPP's `poola` Python package. Please check it out [here](https://pypi.org/project/poola/). 
 
 - The main difference in this `pooled` workflow is in the p-value calculation step. `pooled` determines the p-value for each element (sgRNA, shRNA, or ORF barcode) by comparing its normalized log2-fold change (LFC) gene-level rank against a randomly-permuted null distribution of gene-level ranks, whereas `poola`'s Method 1 scales the LFC to a Gaussian distribution. This approach was previously implemented in `R` by Dr. Mikolaj Slabicki from Dr. Benjamin Ebert's lab @ Dana-Farber Cancer Institute ([Slabicki and Kozicka et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32494016/)). Hence, the demo data below is from the paper's _genome-wide FACS-based CRISPR-Cas9 screen_ in HEK293T cell line engineered to express a GFP/mCherry reporter of *CCNK* a.k.a. cyclin K protein's stabiblity (Fig.  2G).  Special thanks to Dr. Slabicki whom generously made the original code and data available in the Method section.
 
@@ -18,15 +18,17 @@ pip install pooled
 Current version: 0.0.2
 
 Dependencies:
-    - pandas
-    - numpy
-    - statsmodels
-    - matplotlib
-    - gpplot
-    - adjustText
+- pandas
+- numpy
+- statsmodels
+- matplotlib
+- gpplot
+- adjustText
 
 ### Tutorial
 To see a worked example and all functionalities, please launch the Jupyter notebook using this button below:
 
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/kiddo18/pooled/blob/master/notebook/pooled_implementation-Ebert-Official.ipynb)
 
+### Acknowledgements
+My end-to-end knowledge about CRISPR screen came from my time working with my former post-doc mentor Dr. Sandor Spisak and my PI Dr. Nilay Sethi at Dana-Farber Cancer Institute/HMS. This package is ultimately my trying to give back to the highly collaborative scientific and biomedical community I find myself in Boston.
