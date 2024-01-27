@@ -38,3 +38,7 @@ My knowledge of the design, execution and analyses of CRISPR screens came from m
 ### Questions?
 
 Please leave them in the `Issues` section of this Github Repo. I'll try to compile some frequently asked questions here as they come. Highly encourage you to think about the data during the planning phase as that will greatly inform your screen design (library size, sequencing parameters, treatment time, number of treatment arms, minimum cell coverage, etc.)
+
+### Alternatives
+
+I would also recommend that you check out commonly used, well-cited, published tools such as MAGeCK, BAGEL, DrugZ, casTLE, CRISPhieRmix, CRISPRBetaBinomial, and many more at this [link](https://github.com/davidliwei/awesome-CRISPR).
