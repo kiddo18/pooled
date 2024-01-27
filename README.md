@@ -27,5 +27,5 @@ Dependencies:
 ### Tutorial
 To see a worked example and all functionalities, please launch the Jupyter notebook using this button below:
 
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/kiddo18/pooled/blob/master/notebook/pooled_implementation-Ebert-Official.ipynb)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/kiddo18/pooled/blob/master/notebook/pooled_implementation-Ebert-Official.ipynb)
 
