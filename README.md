@@ -31,4 +31,4 @@ To see a worked example and all functionalities, please launch the Jupyter noteb
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/kiddo18/pooled/blob/master/notebook/pooled_implementation-Ebert-Official.ipynb)
 
 ### Acknowledgements
-My end-to-end knowledge about CRISPR screen came from my time working with my former post-doc mentor Dr. Sandor Spisak and my PI Dr. Nilay Sethi at Dana-Farber Cancer Institute/HMS. This package is ultimately my trying to give back to the highly collaborative scientific and biomedical community I find myself in Boston.
+My end-to-end knowledge about CRISPR screen came from my time working with my former post-doc mentor Dr. Sandor Spisak, PhD and my PI Dr. Nilay Sethi, MD, PhD at Dana-Farber Cancer Institute/HMS. This package is ultimately my trying to give back to the highly collaborative scientific and biomedical community I find myself in Boston.
