@@ -5,7 +5,7 @@
 ##### By: Paul Doan ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=O4q49qQAAAAJ))
 
 
-- A straight-forward Python workflow for wet-lab biologists to analyze pooled, functional genetic perturbation screens (e.g., CRISPR, RNAi, ORF) coupled with either viability or FACS-based readouts.
+- A straight-forward Python package for wet-lab biologists to analyze pooled, functional genetic perturbation screens (e.g., CRISPR, RNAi, ORF) coupled with either viability or FACS-based readouts.
 
 - The pre-processing and QC steps of this workflow below are duplicated from the Broad GPP's `poola` Python package. Please check it out [here](https://pypi.org/project/poola/). 
 
