@@ -15,6 +15,7 @@
 ```
 pip install pooled
 ```
+Current version: 0.0.2
 
 Dependencies:
     - pandas
