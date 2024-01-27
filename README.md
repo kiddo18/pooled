@@ -2,6 +2,8 @@
 
 ![stable-diffusion-xl-3 copy](https://github.com/kiddo18/pooled/assets/43038912/da233ba4-ede4-409c-8df2-ba47d2cab7fb)
 
+<img src="https://github.com/kiddo18/pooled/assets/43038912/da233ba4-ede4-409c-8df2-ba47d2cab7fb" width="400" height="790">
+
 ##### By: Paul Doan ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=O4q49qQAAAAJ))
 
 
