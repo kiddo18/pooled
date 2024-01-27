@@ -32,6 +32,11 @@ To see a worked example and all functionalities, please launch the Jupyter noteb
 
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/kiddo18/pooled/blob/master/notebook/pooled_implementation-Ebert-Official.ipynb)
 
+### Future TODO!
+- How to go from raw FASTQ to read count table
+- Genetic Interactions (double Cas9 or Cas12a multi-gRNA)
+
+
 ### Acknowledgements
 My knowledge of the design, execution and analyses of CRISPR screens came from my time working with my former post-doc mentor Dr. Sandor Spisak, PhD and my PI Dr. Nilay Sethi, MD, PhD at Dana-Farber Cancer Institute/HMS. This package is ultimately my trying to give back to the highly collaborative scientific and biomedical community I find myself in Boston.
 
