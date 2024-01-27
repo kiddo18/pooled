@@ -25,7 +25,7 @@ Dependencies:
     - adjustText
 
 ### Tutorial
-To see a worked example and all functionalities, check it this interactive Jupyter notebook here
+To see a worked example and all functionalities, please launch the Jupyter notebook using this button below:
 
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kiddo18/pooled/master?urlpath=https%3A%2F%2Fgithub.com%2Fkiddo18%2Fpooled%2Fblob%2Fmaster%2Fnotebook%2Fpooled_implementation-Ebert-Official.ipynb)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/kiddo18/pooled/blob/master/notebook/pooled_implementation-Ebert-Official.ipynb)
 
