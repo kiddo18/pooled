@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pooled
+Version: 0.0.2
+Summary: Python toolkit for analysis of pooled, functional genetic screens
+Author-email: Paul Doan <pauldoanbio@gmail.com>
+Project-URL: Homepage, https://github.com/kiddo18/pooled
+Project-URL: Bug Tracker, https://github.com/kiddo18/pooled/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pooled
+
+pooled is a Python toolkit for analysis of pooled, functional genetic screens.

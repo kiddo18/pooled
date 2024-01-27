@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+
+[project]
+name = "pooled"
+version = "0.0.2"
+authors = [
+  { name="Paul Doan", email="pauldoanbio@gmail.com" },
+]
+description = "Python toolkit for analysis of pooled, functional genetic screens"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/kiddo18/pooled"
+"Bug Tracker" = "https://github.com/kiddo18/pooled/issues"
